@@ -1,4 +1,4 @@
-package com.timurnabiyev.postgresql_course;
+package com.timurnabiyev.postgresql_course.models;
 
 import java.net.URL;
 

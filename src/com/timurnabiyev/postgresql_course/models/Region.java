@@ -1,4 +1,4 @@
-package com.timurnabiyev.postgresql_course;
+package com.timurnabiyev.postgresql_course.models;
 
 public class Region {
     private Integer regionId;

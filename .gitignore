@@ -29,10 +29,11 @@ out
 .sonar
 
 # ---- IntelliJ IDEA
+.idea
 *.iws
 *.iml
 *.ipr
-.idea
+
 
 # ---- Eclipse
 .classpath
